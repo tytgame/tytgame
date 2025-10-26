@@ -12,8 +12,8 @@
 
 ## 프로젝트
 
-- [여기보개](https://github.com/lejeongeun/HereDoggy) | **[팀 프로젝트]** - 체험형 유기동물 종합 플랫폼 | Web/App Frontend
-- [어디GO](https://github.com/lejeongeun/whereGo) | **[팀 프로젝트]** - 사용자 맞춤형 여행 관리 플랫폼 | Web Frontend
+- [여기보개](https://github.com/tytgame/HereDoggy) | **[팀 프로젝트]** - 체험형 유기동물 종합 플랫폼 | Web/App Frontend
+- [어디GO](https://github.com/tytgame/whereGo) | **[팀 프로젝트]** - 사용자 맞춤형 여행 관리 플랫폼 | Web Frontend
 
 <br/><br/>
 
