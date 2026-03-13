@@ -25,7 +25,7 @@
 ## 프로젝트
 
 - [BlockMind](https://github.com/tytgame/block-mind) | **[개인 프로젝트]** - AI 맥락 시각화 서비스 | Web Application
-- [여기보개](https://github.com/tytgame/HereDoggy) | **[팀 프로젝트]** - 체험형 유기동물 종합 플랫폼 | Web/App Frontend
+- [여기보개](https://github.com/tytgame/HereDoggy) | **[팀 프로젝트]** - 체험형 유기동물 종합 플랫폼 | App Frontend
 - [어디GO](https://github.com/tytgame/whereGo) | **[팀 프로젝트]** - 사용자 맞춤형 여행 관리 플랫폼 | Web Frontend
 
 <br/><br/>
