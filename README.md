@@ -28,7 +28,7 @@
 - [여기보개](https://github.com/tytgame/HereDoggy) | **[팀 프로젝트]** - 유기동물 산책, 입양 플랫폼 | App Frontend
 - [어디GO](https://github.com/tytgame/whereGo) | **[팀 프로젝트]** - 개인 여행일정 관리 플랫폼 | Web Frontend
 <br/><br/>
-- 포트폴리오 -> [yuyeseong.vercel.app/](https://yuyeseong.vercel.app/)
+- 포트폴리오 -> [yuyeseong.vercel.app](https://yuyeseong.vercel.app)
 
 ## 연락처
 - Email: yesung4133@gmail.com
